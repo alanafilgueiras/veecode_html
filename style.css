@@ -84,6 +84,19 @@ nav a:hover{
     font-family: Arial, Helvetica, sans-serif;
     
 }
-
+footer{
+    text-align: center;
+    /*no css para referenciar o endereço de uma imagem, usamos o valor url*/
+    background:url("imagens/bg.jpg");
+    padding: 40px 0;
+    
+    
+}
+.copyright{
+    color: #ffffff;
+    font-size:13px;
+    margin: 20px 0 0;
+    
+}
 
 
